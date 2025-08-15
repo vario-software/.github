@@ -2,7 +2,7 @@
 **Our mission: _Bringing time and progress to every business._**
 
 ## Who We Are
-From Neuwied, Germany, we build ERP software that helps small and medium-sized businesses in the DACH region stay ahead of the game.  
+From Neuwied, Germany, we build a cloud-native ERP platform that helps small and medium-sized businesses in the DACH region stay ahead of the game.  
 
 ## What We Do
 With an **integrated App Store**, a **full REST API**, **workflow automation with scripting**, and much more, VARIO empowers businesses to adapt the platform to their unique needs.  
